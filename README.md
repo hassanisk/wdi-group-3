@@ -1,16 +1,17 @@
 # wdi-project-2
 
-Welcome to **"Popcorn and Chill"** online movie website. Second project for *WDI-LONDON*
+Welcome to **"Paws and Play"**. Third project for *WDI-LONDON*
 A hosted version is found [here] (https://paws-and-play.herokuapp.com/). The code can be viewed [here] (https://github.com/hassanisk/wdi-group-3).
 
 
 ##Introduction
-**"Popcorn and Chill"** is an online movie website community which allows you to search movies and add recommended movies. The idea behind this website is to allow users to search and find all movies, and to recommand movies to all users. The user could check all recommended movies and watch their trailers.
+This project was set to challenge us to work on a whole project with a small team. In addition, we were asked to architect, design, and collaboratively build an API of our own design.
 
 ##How to use the app
 ###Home page
 
-<img width="550" alt="screen shot 2017-03-21 at 15 34 30" src="http://i.imgur.com/JDAqEJJ.jpg"> <br>
+<img width="550" alt="screen shot 2017-03-21 at 15 34 30" src="http://i.imgur.com/D1uJriA.png"> <br>
+<img width="550" alt="screen shot 2017-03-21 at 15 34 30" src="http://i.imgur.com/w9FbJ0h.jpg"> <br>
 This is the home page. The navigation bar exists on any page to facilitate navigation. The *logo* on the left is reponsive and will take the user back to the home page once clicked. On the right, *log in* and *register* options. The title has "popcorn" as gif to ressemble the popping popcorn. Once the user hover around the page, images of famous movies characters will appear to add interactivity with the user.
 
 ###Registration and Login
@@ -51,13 +52,8 @@ I would like to include more features especially for the users. A user profile p
 - JQuery <br>
 - Node.js<br>
 - Express<br>
-- [Google Fonts] (https://fonts.google.com/)<br>
 - Gulp<br>
-- OMBD API<br>
 - [Bootstrap] (https://Bootstrap.com/)<br>
-- [Bootwatch] (https://Bootswatch.com/) offers bootstrap themes<br>
-- [Slick.js] (https://Slick.js/) for the carousel<br>
-- [Gif Creater] (http://gifmaker.me/) to create the homepage gif.<br>
 
 
 
